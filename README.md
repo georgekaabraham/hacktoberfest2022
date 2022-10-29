@@ -14,7 +14,7 @@ https://hacktoberfest.digitalocean.com/
 ## How to contribute to this project
 Here are 3 quick and painless ways to contribute to this project:
 
-*Add any program from any language
+* Add any program from any language
 
 ## Getting started
 * Fork this repository (Click the Fork button in the top right of this page, click your Profile Image)
