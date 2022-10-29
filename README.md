@@ -1,6 +1,6 @@
 # HACKTOBERFEST2022
 Celebrate Hacktoberfest by getting involved in the open source community by completing some simple tasks in this project.
-![img](https://github.com/georgekaabraham/hacktoberfest2022-1/blob/main/hactoberfest_img.png)
+![img](https://github.com/georgekaabraham/hacktoberfest2022/blob/main/hactoberfest_img.png)
 
 Use this REPO to make your contributions to an open source projects on GitHub. Also practice creating pull requests before contributing to a real public repository!]
 This repository is open to all members of the GitHub community.
